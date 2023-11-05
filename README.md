@@ -5,7 +5,3 @@ Bu proje, kredi kartı işlemleri üzerinden dolandırıcılık tespitini amaçl
 ## Proje Hakkında
 
 Veri ön işleme, keşifsel veri analizi (EDA) ve model eğitimi gibi adımları içermektedir.
-
-## Dosya Yapısı
-
-- `subset.csv`: Analiz için kullanılan veri setinin bir örneğidir. Bu dosya, gerçek veri setinden rastgele seçilmiş bir alt kümedir ve gerçek dağılımı temsil etmeyebilir.
