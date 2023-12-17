@@ -7,6 +7,6 @@ Bu proje, TOBB ETÜ'nün BIL401 (Big Data) dersi kapsamında gerçekleştirilmi�
 Bu proje, veri ön işleme, keşifsel veri analizi (EDA) ve makine öğrenimi model eğitimi gibi adımları içermektedir. Proje sürecinde, büyük veri işleme ve analizinde etkin bir çözüm olan Apache Spark teknolojisi kullanılmıştır. Apache Spark, projenin veri işleme ve model eğitimi bölümlerinde kritik bir role sahiptir.
 
 ## Katkıda Bulunanlar
-Ömer Faruk Özgül
-Talha Çetin
+### Ömer Faruk Özgül
+### Talha Çetin
 
